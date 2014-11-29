@@ -1,0 +1,909 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getpid"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"ex",
+				"EXIT_FAILURE"
+			],
+			[
+				"f",
+				"filepath"
+			],
+			[
+				"c",
+				"child"
+			],
+			[
+				"sys",
+				"system"
+			],
+			[
+				"F",
+				"FIFO_PATH"
+			],
+			[
+				"in",
+				"inform"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"inf",
+				"inform"
+			],
+			[
+				"die",
+				"die_flag"
+			],
+			[
+				"fla",
+				"die_flag"
+			],
+			[
+				"fi",
+				"file_buffer"
+			],
+			[
+				"fifo",
+				"fifo_status"
+			],
+			[
+				"buf",
+				"buffer_to_write"
+			],
+			[
+				"bu",
+				"buffer_to_write"
+			],
+			[
+				"buffer_",
+				"buffer_to_write"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"M",
+				"MAX_SIZE"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"FI",
+				"FIFO_PATH"
+			],
+			[
+				"pr",
+				"printf	printf …"
+			],
+			[
+				"s",
+				"strlen"
+			],
+			[
+				"ic",
+				"include"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"S",
+				"SIGKILL"
+			],
+			[
+				"si",
+				"SIGINT"
+			],
+			[
+				"SIG",
+				"SIGINT"
+			],
+			[
+				"sig",
+				"signo"
+			],
+			[
+				"nb",
+				"nbyte"
+			],
+			[
+				"n",
+				"nbyte"
+			],
+			[
+				"cur",
+				"cur_file"
+			],
+			[
+				"Co",
+				"dirContent"
+			],
+			[
+				"new",
+				"newdirname"
+			],
+			[
+				"len",
+				"lengthOption"
+			],
+			[
+				"gre",
+				"grepOption"
+			],
+			[
+				"sam",
+				"same_key_number"
+			],
+			[
+				"str",
+				"strcat"
+			],
+			[
+				"log",
+				"logfile"
+			],
+			[
+				"li",
+				"line_num"
+			],
+			[
+				"line",
+				"line_num"
+			],
+			[
+				"d",
+				"d_name"
+			],
+			[
+				"er",
+				"errno"
+			],
+			[
+				"more",
+				"moreLineNum"
+			],
+			[
+				"le",
+				"lengthOption"
+			],
+			[
+				"cu",
+				"curfp"
+			],
+			[
+				"lo",
+				"logfile"
+			],
+			[
+				"str2",
+				"str2_len"
+			],
+			[
+				"is",
+				"isText"
+			],
+			[
+				"grep",
+				"grepkey"
+			],
+			[
+				"p",
+				"printf	printf …"
+			],
+			[
+				"curre",
+				"currentPATH"
+			],
+			[
+				"init",
+				"init_dirname"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"pri",
+				"printf	printf …"
+			],
+			[
+				"m",
+				"moreLineNum"
+			],
+			[
+				"g",
+				"grepkey"
+			],
+			[
+				"Len",
+				"LENGTH"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"num",
+				"num_of_line_key_in"
+			],
+			[
+				"chi",
+				"child_status"
+			],
+			[
+				"a",
+				"amount_of_match"
+			],
+			[
+				"key",
+				"key_size"
+			],
+			[
+				"wor",
+				"word_size"
+			],
+			[
+				"wo",
+				"word_size"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"time",
+				"time_t"
+			],
+			[
+				"con",
+				"contiunue"
+			],
+			[
+				"whi",
+				"whileThread"
+			],
+			[
+				"qu",
+				"queue"
+			],
+			[
+				"pt",
+				"pthread_exit"
+			],
+			[
+				"mat",
+				"matrix_t"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"q",
+				"queue"
+			],
+			[
+				"cl",
+				"client_desc"
+			],
+			[
+				"pro",
+				"proccessQueue"
+			],
+			[
+				"clie",
+				"client_des"
+			],
+			[
+				"for",
+				"fourthOp"
+			],
+			[
+				"se",
+				"secondOp"
+			],
+			[
+				"o",
+				"opThread"
+			],
+			[
+				"to",
+				"toMath"
+			],
+			[
+				"Soc",
+				"SOCK_STREAM"
+			],
+			[
+				"sock",
+				"socket"
+			],
+			[
+				"MA",
+				"MATH_PORT"
+			],
+			[
+				"To",
+				"TO_MATH_IP"
+			],
+			[
+				"soc",
+				"socket_desc"
+			],
+			[
+				"de",
+				"desc"
+			],
+			[
+				"cli",
+				"client_des"
+			],
+			[
+				"client",
+				"client_des"
+			],
+			[
+				"ma",
+				"malloc"
+			],
+			[
+				"math",
+				"math_des"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"matri",
+				"matrix_t"
+			],
+			[
+				"conne",
+				"connection"
+			],
+			[
+				"tick",
+				"tickdes"
+			],
+			[
+				"tic",
+				"tickdes"
+			],
+			[
+				"co",
+				"connect"
+			],
+			[
+				"sin",
+				"sin_port"
+			],
+			[
+				"TO",
+				"toTick"
+			],
+			[
+				"I",
+				"INADDR_ANY"
+			],
+			[
+				"ad",
+				"s_addr"
+			],
+			[
+				"A",
+				"AF_INET"
+			],
+			[
+				"e",
+				"EOF"
+			],
+			[
+				"inet",
+				"inet_ntoa"
+			],
+			[
+				"h",
+				"H1"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"r",
+				"runge_kutta"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"th",
+				"threadID"
+			],
+			[
+				"end",
+				"end_find"
+			],
+			[
+				"thread",
+				"thread_start"
+			],
+			[
+				"thre",
+				"thread_start"
+			],
+			[
+				"time_end_",
+				"time_end_ends"
+			],
+			[
+				"time_start_",
+				"time_start_finds"
+			],
+			[
+				"sp",
+				"sprintf"
+			],
+			[
+				"lof",
+				"logfile_p"
+			],
+			[
+				"log_f",
+				"log_file_info_t"
+			],
+			[
+				"find",
+				"find_index"
+			],
+			[
+				"number",
+				"number_of_finds"
+			],
+			[
+				"list",
+				"list_of_find"
+			],
+			[
+				"star",
+				"starting_time"
+			],
+			[
+				"ti",
+				"time_start"
+			],
+			[
+				"en",
+				"end"
+			],
+			[
+				"ending",
+				"ending_time"
+			],
+			[
+				"v",
+				"var1"
+			],
+			[
+				"inde",
+				"index_find"
+			],
+			[
+				"strc",
+				"strcmp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hw03.c",
+			"settings":
+			{
+				"buffer_size": 13304,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/said/Desktop/SystemProgramming/Ödevler/midterm/timer.c",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/said/Desktop/SystemProgramming/Ödevler/hw03/backup.c",
+		"/home/said/Desktop/SystemProgramming/Ödevler/hw01/long.txt",
+		"/home/said/Desktop/SystemProgramming/Ödevler/hw03/backup2.c",
+		"/home/said/Desktop/SystemProgramming/Ödevler/hw02/hw02.c",
+		"/home/said/Desktop/SystemProgramming/Ödevler/hw03/pipe.c",
+		"/home/said/Desktop/SystemProgramming/Ödevler/hw03/fifo2.c",
+		"/home/said/Desktop/SystemProgramming/Ödevler/hw03/hw03backup.sublime-workspace",
+		"/home/said/Desktop/SystemProgramming/Ödevler/hw03/Makefile",
+		"/home/said/Desktop/SystemProgramming/Ödevler/hw03/signal.c",
+		"/home/said/Desktop/SystemProgramming/Ödevler/hw03/signal2.c",
+		"/home/said/Desktop/System Programming/Ödevler/hw02/lo.txt",
+		"/home/said/Desktop/System Programming/Ödevler/hw02/hw02.c",
+		"/home/said/Desktop/System Programming/Ödevler/hw03/fifo2.c",
+		"/home/said/Desktop/System Programming/Ödevler/hw03/hw03.c",
+		"/home/said/Desktop/System Programming/Ödevler/hw03/signal.c",
+		"/home/said/Desktop/System Programming/Ödevler/hw03/signal2.c",
+		"/home/said/Desktop/System Programming/Ödevler/hw03/pipe.c",
+		"/home/said/Desktop/System Programming/Ödevler/hw03/fifo.c",
+		"/home/said/Desktop/System Programming/Ödevler/hw02/101044067_hw02_part2.c",
+		"/home/said/Desktop/2. sınıf bahar/Sistem programlama/ödevler/HW03/101044067_HW3_part2.c",
+		"/home/said/.cache/.fr-ZOVnrz/HW05_Ibrahim_Cetinkaya_121044072_part2.c",
+		"/home/said/.cache/.fr-qv66Cf/HW05_Ibrahim_Cetinkaya_121044072_part2.c",
+		"/home/said/.cache/.fr-8vDo31/HW05_Ibrahim_Cetinkaya_121044072_part2.c",
+		"/home/said/Desktop/2. sınıf bahar/Sistem programlama/ödevler/HW06/101044067_hw06_client.c",
+		"/home/said/Downloads/cinelerra-4.5/plugins/brighttheme/Makefile",
+		"/home/said/Downloads/cinelerra-4.5/guicast/Xvlib.h",
+		"/home/said/Downloads/cinelerra-4.5/i686/png.h",
+		"/home/said/Desktop/Veri yapıları/hw03/hw03/src/hw03/KWLinkedList.java",
+		"/home/said/Desktop/Veri yapıları/hw03/Asymtotic notations.txt",
+		"/home/said/Desktop/2. sınıf bahar/Sistem programlama/ödevler/HW03/101044067_HW3_part1.c",
+		"/home/said/Downloads/cinelerra-4.5 (2)/README",
+		"/home/said/Downloads/cinelerra-4.5/plugins/brighttheme/brighttheme.h",
+		"/home/said/Downloads/Makefile",
+		"/home/said/Downloads/cinelerra-4.5/guicast/bcbitmap.h",
+		"/home/said/Desktop/XShm.h",
+		"/home/said/Downloads/cinelerra-4.5/README",
+		"/home/said/Desktop/Veri yapıları/hw03/hw03/src/hw03/GITLinkedList.java",
+		"/home/said/Desktop/Veri yapıları/hw03/hw03/src/hw03/KWArrayList.java",
+		"/home/said/Desktop/Veri yapıları/hw03/hw03/src/hw03/GITArrayList.java",
+		"/home/said/Desktop/Veri yapıları/hw03/hw03/src/hw03/GITList.java",
+		"/home/said/Desktop/OperatingSystems/pintos (2)/src/threads/thread.h",
+		"/home/said/Desktop/System Programming/hw02/ju.txt",
+		"/home/said/Desktop/System Programming/hw02/long.txt",
+		"/home/said/Desktop/System Programming/hw02/hw02.c",
+		"/home/said/Desktop/System Programming/hw02/lo.txt",
+		"/home/said/Application/meld-1.8.4/INSTALL",
+		"/home/said/Desktop/System Programming/hw02/Makefile",
+		"/home/said/Desktop/System Programming/hw02/101044067_hw02_part2.c",
+		"/home/said/Desktop/System Programming/hw01/hw01.c",
+		"/home/said/Desktop/OperatingSystems/pintos1-master/src/threads/thread.h",
+		"/home/said/Application/meld-1.8.4/bin/meld.install",
+		"/home/said/Desktop/OperatingSystems/pintos/src/utils/pintos",
+		"/home/said/Desktop/OperatingSystems/threads.tmpl",
+		"/home/said/Desktop/OperatingSystems/pintos/src/tests/threads/alarm-multiple.ck",
+		"/home/said/.bashrc",
+		"/home/said/.tcshrc",
+		"/tmp/aa_log.txt",
+		"/home/said/Desktop/2. sınıf bahar/Sistem programlama/ödevler/HW02/101044067_hw02_part2.c",
+		"/home/said/Desktop/System Programming/folderx/reis.txt",
+		"/home/said/Desktop/System Programming/hw02/deneme.c",
+		"/home/said/Desktop/pintos/src/utils/pintos",
+		"/home/said/.tschrc",
+		"/home/said/Desktop/OperatingSystems/src/src/threads/interrupt.c",
+		"/home/said/Desktop/OperatingSystems/src/src/threads/thread.c",
+		"/home/said/Desktop/OperatingSystems/src/src/devices/timer.c",
+		"/home/said/Desktop/OperatingSystems/src/src/devices/timer.h",
+		"/home/said/Desktop/OperatingSystems/src/src/threads/build/tests/threads/alarm-single.output",
+		"/home/said/Desktop/OperatingSystems/src/src/misc/bochs-2.2.6-build.sh",
+		"/home/said/Desktop/2. sınıf bahar/Sistem programlama/ödevler/HW02/101044067_hw02_part1.c",
+		"/home/said/Linux notlar/youtube-dl hatası.txt",
+		"/home/said/Desktop/OperatingSystems/src/src/threads/switch.h",
+		"/home/said/Desktop/OperatingSystems/src/src/threads/switch.S",
+		"/home/said/Desktop/OperatingSystems/src/src/Make.config",
+		"/home/said/Desktop/Operating Systems/src/src/threads/thread.h",
+		"/home/said/Desktop/Operating Systems/src/src/devices/timer.h",
+		"/home/said/Desktop/Operating Systems/src/src/devices/timer.c",
+		"/home/said/Desktop/Operating Systems/src/src/threads/thread.c",
+		"/home/said/Desktop/System Programming/hw01/long.txt",
+		"/home/said/Desktop/Operating Systems/Pintos-Project-1/src/threads/thread.c",
+		"/home/said/Desktop/HW03_MURAT_ALI_KISTAN_121044010.c",
+		"/home/said/Desktop/Operating Systems/src/src/threads/switch.S",
+		"/home/said/Desktop/Operating Systems/src/src/Makefile.build",
+		"/home/said/Desktop/Operating Systems/Pintos-Project-1/src/threads/thread.h",
+		"/home/said/Desktop/Operating Systems/src/src/threads/Makefile",
+		"/home/said/Desktop/Operating Systems/src/src/Makefile.kernel",
+		"/home/said/Desktop/Operating Systems/src/src/threads/bochsrc.txt",
+		"/home/said/Desktop/Operating Systems/src/src/threads/synch.h",
+		"/home/said/Desktop/Operating Systems/src/src/threads/start.S",
+		"/home/said/Desktop/Operating Systems/src/src/threads/init.c",
+		"/home/said/Desktop/Operating Systems/src/src/threads/bochsout.txt",
+		"/home/said/Desktop/Operating Systems/src/src/Makefile",
+		"/home/said/Desktop/samet/System_Programming_HW01_101044044/README",
+		"/home/said/Desktop/samet/System_Programming_HW01_101044044/Makefile",
+		"/home/said/Desktop/samet/System_Programming_HW01_101044044/grepMv1_20.c",
+		"/home/said/Desktop/Veri yapıları/Asymtotic notations.txt",
+		"/home/said/Desktop/Veri yapıları/Software Engineering Phrases.txt",
+		"/home/said/Desktop/2. sınıf bahar/Veri yapıları/cse222_hw03_101044067/HW03.java",
+		"/home/said/Desktop/2. sınıf bahar/Veri yapıları/cse222_hw03_101044067/GITList.java",
+		"/home/said/Desktop/GITList (1).java",
+		"/media/depo/Linux notlar/java directory.txt",
+		"/home/said/Desktop/İşletim sistemleri/src/src/threads/build/bochsout.txt",
+		"/home/said/Desktop/İşletim sistemleri/src/src/Makefile.kernel",
+		"/home/said/Desktop/İşletim sistemleri/src/src/threads/Makefile",
+		"/home/said/Desktop/İşletim sistemleri/src/src/threads/build/threads/synch.d",
+		"/home/said/Desktop/İşletim sistemleri/src/src/threads/bochsout.txt",
+		"/home/said/Desktop/İşletim sistemleri/src/src/threads/kernel.lds.S",
+		"/home/said/Desktop/İşletim sistemleri/src/src/threads/thread.c",
+		"/home/said/Desktop/System Programming/hw01/Makefile",
+		"/home/said/Desktop/samet/long.txt",
+		"/home/said/Desktop/İşletim sistemleri/src/src/threads/build/Makefile",
+		"/home/said/Desktop/Odev1-2/odev1.cs",
+		"/home/said/Desktop/İşletim sistemleri/threads.tmpl",
+		"/home/said/Desktop/Sistem Programlama/hw01/hw01.c",
+		"/home/said/Desktop/Sistem Programlama/hw01/Makefile",
+		"/home/said/Desktop/samet/Makefile",
+		"/home/said/Desktop/file1.txt",
+		"/home/said/Desktop/sysproghw01.c",
+		"/home/said/Desktop/KWArrayList.java",
+		"/home/said/Desktop/2. sınıf bahar/Sistem programlama/ödevler/HW01/101044067_hw01_part2.c",
+		"/home/said/Desktop/Sistem Programlama/hw01.c",
+		"/home/said/Desktop/Sistem Programlama/dosya",
+		"/home/said/Desktop/emptyfile.txt",
+		"/home/said/Desktop/Sistem Programlama/101044067_hw01_part2.c",
+		"/home/said/Desktop/2. sınıf bahar/Sayısal Analiz ödevleri/MAT214_101044067_HW07.c",
+		"/home/said/Desktop/2. sınıf bahar/Sayısal Analiz ödevleri/part5.c",
+		"/home/said/Desktop/2. sınıf bahar/Sayısal Analiz ödevleri/part4.c",
+		"/home/said/Desktop/2. sınıf bahar/Sayısal Analiz ödevleri/part3.c",
+		"/home/said/Desktop/2. sınıf bahar/Sayısal Analiz ödevleri/part2.c"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"catch_function",
+			"flag",
+			"rm",
+			"pipe",
+			"memset",
+			"dirmanager",
+			"logfile",
+			"free",
+			"more",
+			"read",
+			"grepMe",
+			"buffer_fifo",
+			"buffer",
+			"more",
+			"dirmanager",
+			"grepMe",
+			"newt",
+			"oldt",
+			"malloc",
+			"free",
+			"dirContent->d_name",
+			"fre",
+			"isText",
+			"no-kqemu",
+			"@cmd, ‘-no-kqemu",
+			"strcmp",
+			"*);",
+			"print BOCHSRC \"display_library:",
+			"grepMv1_20",
+			"new_pid",
+			"checkword",
+			"gedit",
+			"inet",
+			"procc",
+			"wait",
+			"inp",
+			"recv",
+			"]);",
+			"bind",
+			"sizeof",
+			"argv",
+			"arg",
+			"send",
+			"bind",
+			"bibd",
+			"argv",
+			"mutex",
+			"MAX_LENGHT",
+			" ;",
+			"dirmanager",
+			"i",
+			"general_fifo",
+			"dirmanager",
+			"}\n",
+			"command",
+			"own_stream_desc",
+			"   \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"static_func",
+			"file_buffer",
+			"buffer_fifo",
+			"after",
+			"before",
+			"cur_file",
+			"grepM",
+			"hw01",
+			"stringmatching",
+			"buf"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hw03.c",
+					"settings":
+					{
+						"buffer_size": 13304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11176,
+								11176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8245.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/said/Desktop/SystemProgramming/Ödevler/midterm/timer.c",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

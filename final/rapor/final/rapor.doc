@@ -1,0 +1,121 @@
+﻿BIL 244 
+System Programming
+   Final Report	
+
+Said Nuri UYANIK
+101044067
+
+----------------------------------------------------------
+********************* TEST 1 *****************************
+
+Device properties: Intel® Core™ i5-3470 CPU @ 3.20GHz × 4 
+
+Test 1.1
+
+
+RGM (Module1)		
+	Inputs:	
+Number of Matrices: 50
+Matrix dimension:   5
+Queue size:		  100
+Number of threads:  4
+	
+	Results:
+		Elapsed time: 3.39 sec
+
+
+Multiplier Module (Module2): 		
+	
+	Inputs:	
+Queue size:		  100
+Number of threads:  4
+	 
+
+Verifier (Module 3) (Module1)
+
+	Inputs:	
+Queue size:		  60
+Number of threads:  4
+
+	Results:
+		Elapsed time: 7.7972.79 sec
+		# of invertable matrices: 50
+		# of non - invertable matrices: 0
+
+
+
+
+
+
+Test 1.2
+
+RGM (Module1)			 
+	
+	Inputs:	
+Number of Matrices: 120
+Matrix dimension:   3
+Queue size:		  100
+Number of threads:  5
+	
+	Results:
+		Elapsed time: 9.9625 sec
+
+
+	
+Multiplier Module (Module2):	
+	Inputs:	
+Queue size:		  120
+Number of threads:  4
+	
+	Results:
+		Elapsed time: 
+
+Verifier (Module 3) (Module1)
+
+	Inputs:	
+Queue size:		  150
+Number of threads:  2
+
+	Results:
+		# of invertable matrices: 120
+		# of non - invertable matrices: 0
+		Elapsed time: 10.10985.48 sec
+Test 1.3
+
+ 
+RGM (Module1):
+		
+	Inputs:	
+Number of Matrices: 70
+Matrix dimension:   4
+Queue size:		  80
+Number of threads:  3
+	
+	
+Results:
+		Elapsed time: 5.5599.02 sec
+
+
+Multiplier Module (Module2):
+		
+	
+	Inputs:	
+Queue size:		  20
+Number of threads:  10
+
+
+Verifier (Module 3) (Module1)
+
+	Inputs:	
+Queue size:		  30
+Number of threads:  4
+
+	Results:
+		Elapsed time: 6.6783.13 sec
+
+
+----------------------------------------------------------
+********************* TEST 2 *****************************
+
+Device properties:  
+
